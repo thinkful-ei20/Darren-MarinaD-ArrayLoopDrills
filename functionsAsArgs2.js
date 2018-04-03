@@ -12,7 +12,6 @@ console.log(filteredNames); // => ['Rich', 'Ray']
 // <---- DO NOT EDIT BETWEEN THESE LINES
 
 
-
 // TASK: DEFINE YOUR FILTER FUNCTION BELOW:
 function filter(arr, fn) {
   let filteredArr = [];
